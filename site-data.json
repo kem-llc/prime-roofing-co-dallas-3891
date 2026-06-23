@@ -7,25 +7,25 @@
     "phone": "(214) 513-3891",
     "address": "1718 Whittier Ave, Dallas, TX 75218",
     "city": "Dallas, TX",
-    "hours": "Mon-Fri 7:00 AM - 6:00 PM",
+    "hours": "Mon-Fri 7:00 AM - 6:00 PM, Sat 8:00 AM - 2:00 PM",
     "ctaLabel": "Get a Free Estimate",
     "headerCta": "Call Now"
   },
   "seo": {
     "title": "Prime Roofing Co | Expert Carpenter in Dallas, TX | Free Estimates",
-    "description": "Prime Roofing Co offers expert carpentry services in Dallas, TX. From custom decks to structural repairs, our skilled carpenters deliver quality craftsmanship. Call (214) 513-3891 for a free estimate."
+    "description": "Prime Roofing Co offers premium carpentry services in Dallas, TX. From custom decks to structural repairs, our skilled carpenters deliver quality craftsmanship. Call (214) 513-3891 for a free estimate."
   },
   "home": {
     "hero": {
-      "eyebrow": "Dallas's Premier Carpentry & Roofing Company",
-      "headline": "Expert Carpentry That Transforms Your Home",
-      "subheadline": "From custom decks to structural framing, we bring precision and quality to every project. Serving Dallas homeowners and businesses with reliable craftsmanship.",
+      "eyebrow": "Premium Carpentry in Dallas, TX",
+      "headline": "Transform Your Home with Expert Craftsmanship",
+      "subheadline": "From custom decks to intricate trim work, Prime Roofing Co brings decades of experience to every project. We treat your home like our own.",
       "primaryCta": "Get a Free Estimate",
-      "secondaryCta": "See Our Work"
+      "secondaryCta": "View Our Work"
     },
     "stats": [
       {
-        "value": "15+",
+        "value": "30+",
         "label": "Years Experience"
       },
       {
@@ -37,7 +37,7 @@
         "label": "Client Satisfaction"
       },
       {
-        "value": "4.9",
+        "value": "5.0",
         "label": "Average Rating"
       }
     ],
@@ -45,276 +45,274 @@
       {
         "eyebrow": "Custom Carpentry",
         "title": "Built to Last, Designed for You",
-        "body": "Our master carpenters create custom structures that enhance your property's beauty and value. Whether it's a new deck, pergola, or built-in shelving, we use premium materials and time-tested techniques.",
+        "body": "Whether you need a new deck, custom shelving, or intricate crown molding, our team delivers precision and durability. We use only the finest materials and time-tested techniques.",
         "bullets": [
-          "Bespoke designs tailored to your style",
-          "Premium hardwoods and weather-resistant materials",
-          "Seamless integration with existing architecture"
+          "Custom decks and pergolas",
+          "Interior trim and molding",
+          "Cabinet installation and repair",
+          "Structural repairs and framing"
         ],
         "reverse": false,
-        "cardLabel": "Featured Project",
-        "cardTitle": "Custom Deck & Pergola",
-        "cardBody": "Transformed a backyard into an outdoor living space with a cedar deck and automated louvered pergola."
+        "cardLabel": "Our Promise",
+        "cardTitle": "Quality Guaranteed",
+        "cardBody": "Every project comes with a satisfaction guarantee. We stand behind our work."
       },
       {
-        "eyebrow": "Structural Repairs",
-        "title": "Strong Foundations, Safe Homes",
-        "body": "From rotting beams to sagging floors, we diagnose and repair structural issues before they worsen. Our team ensures your home remains safe and sturdy for years to come.",
+        "eyebrow": "Roofing Expertise",
+        "title": "Your Roof, Our Priority",
+        "body": "As a full-service roofing company, we handle everything from minor repairs to complete replacements. Protect your home with a roof that's built to withstand Texas weather.",
         "bullets": [
-          "Comprehensive structural inspections",
-          "Roof framing and truss repairs",
-          "Foundation-to-roof integrity solutions"
+          "Asphalt shingle and metal roofing",
+          "Leak detection and repair",
+          "Gutter installation and cleaning",
+          "Skylight installation"
         ],
         "reverse": true,
-        "cardLabel": "Service Highlight",
-        "cardTitle": "Emergency Repair",
-        "cardBody": "Rapid response for storm damage, leaks, and structural emergencies. Same-day assessments available."
+        "cardLabel": "Did You Know?",
+        "cardTitle": "Roofs Last 20-30 Years",
+        "cardBody": "Regular maintenance can extend your roof's life by up to 50%."
       }
     ],
-    "whyTitle": "Why Choose Prime Roofing Co",
+    "whyTitle": "Why Choose Prime Roofing Co?",
     "whyChooseUs": [
       {
         "title": "Licensed & Insured",
-        "description": "Fully licensed and insured for your peace of mind. We meet all Dallas building codes and safety standards."
+        "description": "Fully licensed and insured for your peace of mind. We meet all Dallas regulations."
+      },
+      {
+        "title": "Free, No-Obligation Estimates",
+        "description": "Transparent pricing with no hidden fees. Get a detailed quote before any work begins."
       },
       {
         "title": "Premium Materials",
-        "description": "We source top-grade lumber and hardware to ensure durability and longevity in every project."
+        "description": "We source only top-grade lumber and roofing materials for lasting results."
       },
       {
-        "title": "Transparent Pricing",
-        "description": "No hidden fees or surprises. We provide detailed quotes upfront and stick to them."
-      },
-      {
-        "title": "Satisfaction Guaranteed",
-        "description": "We stand behind our work with a comprehensive warranty. Your happiness is our priority."
+        "title": "Clean & Respectful",
+        "description": "We treat your property with care, cleaning up thoroughly after every job."
       }
     ],
     "testimonials": [
       {
-        "quote": "Prime Roofing built a beautiful custom deck for us. The team was professional, punctual, and the quality is outstanding.",
-        "author": "Mark T.",
-        "role": "Lakewood Homeowner"
+        "quote": "Prime Roofing built our custom deck and it's stunning. The team was professional, on time, and left the yard spotless. Highly recommend!",
+        "author": "Michael R.",
+        "role": "Lakewood homeowner"
       },
       {
-        "quote": "They repaired our roof framing after a storm. Quick response, fair price, and excellent communication throughout.",
-        "author": "Linda R.",
-        "role": "East Dallas Resident"
+        "quote": "They repaired our roof after a storm and did an amazing job. Fair price and quick work. We'll call them for any future projects.",
+        "author": "Linda S.",
+        "role": "White Rock resident"
       },
       {
-        "quote": "We hired them for built-in bookshelves and a window seat. The craftsmanship is impeccable. Highly recommend!",
-        "author": "James P.",
-        "role": "M Streets Homeowner"
+        "quote": "From the estimate to the final walkthrough, everything was seamless. The craftsmanship on our new cabinets is top-notch.",
+        "author": "David K.",
+        "role": "M Streets homeowner"
       }
     ],
     "cta": {
       "headline": "Ready to Start Your Project?",
-      "subheadline": "Get a free, no-obligation estimate from Dallas's trusted carpentry experts.",
+      "subheadline": "Contact us today for a free, no-obligation estimate. Let's bring your vision to life.",
       "primaryCta": "Call (214) 513-3891",
-      "secondaryCta": "Request Online Quote"
+      "secondaryCta": "Get a Free Estimate"
     }
   },
   "servicesPage": {
-    "intro": "Prime Roofing Co offers comprehensive carpentry services in Dallas, TX. From custom builds to structural repairs, our skilled team delivers precision and quality on every project."
+    "intro": "At Prime Roofing Co, we offer a full range of carpentry and roofing services tailored to Dallas homeowners. Our skilled craftsmen combine traditional techniques with modern innovation to deliver exceptional results."
   },
   "services": [
     {
       "icon": "01",
-      "title": "Custom Deck Building",
-      "shortDescription": "Design and build stunning decks that extend your living space outdoors.",
-      "longDescription": "Our custom deck building service transforms your backyard into a functional and beautiful outdoor oasis. We work with you to design a deck that fits your lifestyle, whether it's for entertaining, relaxation, or family gatherings. Using premium materials like cedar, composite, and pressure-treated lumber, we ensure your deck is built to last.",
+      "title": "Custom Decks & Pergolas",
+      "shortDescription": "Design and build beautiful outdoor living spaces with custom decks and pergolas.",
+      "longDescription": "Transform your backyard into an oasis with a custom deck or pergola from Prime Roofing Co. We work with you to design a space that fits your lifestyle, whether you want a cozy platform for grilling or a multi-level entertainment area. Using premium pressure-treated lumber or composite materials, we ensure your deck is built to last for decades.",
       "benefits": [
-        "Increases home value and curb appeal",
-        "Custom designs to match your property",
-        "Durable, weather-resistant construction",
-        "Professional installation with minimal disruption"
+        "Enhances home value and curb appeal",
+        "Customizable to any size or shape",
+        "Low-maintenance options available"
       ],
       "process": [
         {
           "title": "Consultation & Design",
-          "description": "We discuss your vision, measure the space, and create a custom design plan."
+          "description": "We meet on-site to discuss your vision, measure the area, and create a custom design plan."
         },
         {
           "title": "Material Selection",
-          "description": "Choose from a variety of high-quality materials and finishes to suit your style and budget."
+          "description": "Choose from a variety of woods, composites, and finishes to match your style and budget."
         },
         {
-          "title": "Construction & Finish",
-          "description": "Our team builds your deck with precision, applying protective finishes and ensuring structural integrity."
+          "title": "Professional Installation",
+          "description": "Our team builds your deck with precision, ensuring structural integrity and beautiful results."
         }
       ],
       "faqs": [
         {
           "question": "How long does it take to build a deck?",
-          "answer": "Most residential decks take 3-7 days depending on size and complexity."
+          "answer": "Most deck projects take 1-2 weeks, depending on size and complexity."
         },
         {
-          "question": "Do you handle permits?",
-          "answer": "Yes, we obtain all necessary permits and ensure your deck meets local building codes."
+          "question": "Do you offer composite decking?",
+          "answer": "Yes, we offer Trex and other composite materials that require minimal maintenance."
         }
       ],
-      "slug": "custom-deck-building"
+      "slug": "custom-decks-pergolas"
     },
     {
       "icon": "02",
-      "title": "Structural Framing & Repairs",
-      "shortDescription": "Expert framing and repair services for roofs, walls, and floors.",
-      "longDescription": "Structural integrity is the backbone of any building. Our skilled carpenters specialize in framing new constructions and repairing damaged structures. From roof trusses to load-bearing walls, we use advanced techniques and quality materials to ensure safety and durability. Whether you're building an addition or fixing storm damage, we deliver reliable solutions.",
+      "title": "Interior Trim & Molding",
+      "shortDescription": "Add elegance to your home with custom crown molding, baseboards, and wainscoting.",
+      "longDescription": "Elevate the interior of your home with expertly installed trim and molding. Our carpenters specialize in crown molding, chair rails, wainscoting, and custom built-ins. We match existing styles or create new designs that complement your architecture. Every joint is seamless, every corner precise.",
       "benefits": [
-        "Enhances safety and stability of your property",
-        "Extends the lifespan of your structure",
-        "Prevents further damage with timely repairs",
-        "Compliant with all safety regulations"
-      ],
-      "process": [
-        {
-          "title": "Inspection & Assessment",
-          "description": "We thoroughly inspect the structure to identify issues and determine the best repair approach."
-        },
-        {
-          "title": "Planning & Permits",
-          "description": "We create a detailed plan and handle any required permits for structural work."
-        },
-        {
-          "title": "Repair & Reinforcement",
-          "description": "Our team executes the repair using high-grade lumber and connectors, reinforcing the structure for long-term stability."
-        }
-      ],
-      "faqs": [
-        {
-          "question": "What signs indicate structural damage?",
-          "answer": "Cracks in walls, sagging floors, sticking doors, and visible rot or water damage are common indicators."
-        },
-        {
-          "question": "Can you match existing framing?",
-          "answer": "Yes, we source compatible materials and replicate existing framing patterns for seamless repairs."
-        }
-      ],
-      "slug": "structural-framing-repairs"
-    },
-    {
-      "icon": "03",
-      "title": "Custom Cabinetry & Built-Ins",
-      "shortDescription": "Handcrafted cabinets and built-in furniture that maximize space and style.",
-      "longDescription": "Elevate your home with custom cabinetry and built-in furniture designed to fit your space perfectly. Our carpenters craft everything from kitchen cabinets to entertainment centers, home offices, and window seats. We use premium hardwoods and modern finishes to create pieces that are both functional and beautiful. Each project is tailored to your storage needs and aesthetic preferences.",
-      "benefits": [
-        "Maximizes storage and organization",
-        "Adds unique character to your home",
-        "Increases property value",
-        "Built to exact specifications for a perfect fit"
+        "Adds architectural character",
+        "Increases home resale value",
+        "Custom designs to match any decor"
       ],
       "process": [
         {
           "title": "Design Consultation",
-          "description": "We discuss your needs, measure the space, and create a 3D design concept."
+          "description": "We review your space and recommend molding styles that enhance your home's aesthetic."
         },
         {
-          "title": "Material & Finish Selection",
-          "description": "Choose from a wide range of woods, stains, paints, and hardware to match your decor."
+          "title": "Material & Profile Selection",
+          "description": "Choose from wood, MDF, or polyurethane in various profiles and sizes."
         },
         {
-          "title": "Fabrication & Installation",
-          "description": "Our craftsmen build your cabinetry in our workshop and install it with precision on-site."
+          "title": "Precision Installation",
+          "description": "Our team installs with meticulous attention to detail, ensuring clean lines and perfect joints."
         }
       ],
       "faqs": [
         {
-          "question": "How long does custom cabinetry take?",
-          "answer": "Typically 4-6 weeks from design to installation, depending on complexity."
+          "question": "Can you match existing trim?",
+          "answer": "Yes, we can replicate existing profiles or blend new trim with old for a cohesive look."
         },
         {
-          "question": "Can you match existing cabinets?",
-          "answer": "Yes, we can replicate styles, wood species, and finishes to blend with your current cabinetry."
+          "question": "How much does crown molding cost?",
+          "answer": "Costs vary by material and room size; we provide a free estimate after measuring."
         }
       ],
-      "slug": "custom-cabinetry-built-ins"
+      "slug": "interior-trim-molding"
     },
     {
-      "icon": "04",
-      "title": "Exterior Trim & Siding",
-      "shortDescription": "Professional installation and repair of trim, fascia, and siding.",
-      "longDescription": "Enhance your home's curb appeal and protection with our exterior trim and siding services. We install and repair fascia, soffits, crown molding, and siding using durable materials like wood, vinyl, and fiber cement. Our attention to detail ensures clean lines and a polished look that stands up to Texas weather. Whether you're updating a single section or re-siding your entire home, we deliver quality results.",
+      "icon": "03",
+      "title": "Cabinet Installation & Repair",
+      "shortDescription": "Install or refinish kitchen and bathroom cabinets for a fresh, modern look.",
+      "longDescription": "Upgrade your kitchen or bathroom with custom cabinet installation or refinishing. Prime Roofing Co offers full-service cabinet work, from building custom cabinetry to repairing damaged doors and drawers. We work with all styles, from traditional to contemporary, ensuring a perfect fit and finish.",
       "benefits": [
-        "Boosts curb appeal and home value",
-        "Protects against moisture and pests",
-        "Energy-efficient insulation options",
-        "Low-maintenance, long-lasting materials"
+        "Maximizes storage and organization",
+        "Customizable to your exact needs",
+        "Cost-effective alternative to full replacement"
       ],
       "process": [
         {
-          "title": "Exterior Assessment",
-          "description": "We evaluate your current trim and siding, noting any damage or areas needing replacement."
+          "title": "Assessment & Planning",
+          "description": "We evaluate your existing cabinets or space and discuss your goals."
         },
         {
-          "title": "Material Selection",
-          "description": "We help you choose the best material and color for your home's style and climate."
+          "title": "Design & Material Selection",
+          "description": "Choose from solid wood, plywood, or MDF with various finishes and hardware."
         },
         {
-          "title": "Installation & Sealing",
-          "description": "Our team installs trim and siding with precision, sealing all joints for weather resistance."
+          "title": "Installation or Refinishing",
+          "description": "Our team installs new cabinets or refinishes existing ones with precision and care."
         }
       ],
       "faqs": [
         {
-          "question": "How often should siding be replaced?",
-          "answer": "Wood siding lasts 20-40 years, vinyl 20-30 years, and fiber cement 50+ years with proper maintenance."
+          "question": "Can you reface my cabinets?",
+          "answer": "Yes, refacing is a great option to update the look without replacing the entire cabinet box."
         },
         {
-          "question": "Do you repair damaged trim?",
-          "answer": "Yes, we repair or replace rotted or damaged trim, fascia, and soffits to restore your home's exterior."
+          "question": "How long does cabinet installation take?",
+          "answer": "Typical kitchen cabinet installation takes 3-5 days, depending on complexity."
         }
       ],
-      "slug": "exterior-trim-siding"
+      "slug": "cabinet-installation-repair"
+    },
+    {
+      "icon": "04",
+      "title": "Roof Repair & Replacement",
+      "shortDescription": "Protect your home with professional roof repair, maintenance, and full replacements.",
+      "longDescription": "Your roof is your home's first defense against the elements. Prime Roofing Co provides comprehensive roofing services, from minor leak repairs to complete tear-offs and replacements. We use high-quality shingles and metal roofing materials that withstand Dallas weather. Our team follows strict safety protocols and ensures proper ventilation for long-lasting performance.",
+      "benefits": [
+        "Prevents water damage and mold",
+        "Improves energy efficiency",
+        "Enhances curb appeal"
+      ],
+      "process": [
+        {
+          "title": "Inspection & Estimate",
+          "description": "We perform a thorough inspection and provide a detailed estimate with no surprises."
+        },
+        {
+          "title": "Material Selection",
+          "description": "Choose from asphalt shingles, metal, or tile in a variety of colors and styles."
+        },
+        {
+          "title": "Professional Installation",
+          "description": "Our crew installs your new roof efficiently, with cleanup and disposal included."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you offer warranties on roofing?",
+          "answer": "Yes, we offer both workmanship and manufacturer warranties on all roofing installations."
+        },
+        {
+          "question": "Can you repair a leaky roof?",
+          "answer": "Absolutely. We locate the source of the leak and make durable repairs to prevent future issues."
+        }
+      ],
+      "slug": "roof-repair-replacement"
     }
   ],
   "about": {
-    "headline": "Crafting Quality Since 2008",
-    "mission": "Our mission is to provide Dallas homeowners and businesses with exceptional carpentry services that combine traditional craftsmanship with modern techniques. We are committed to safety, integrity, and complete customer satisfaction.",
+    "headline": "Craftsmanship You Can Trust",
+    "mission": "To provide Dallas homeowners with exceptional carpentry and roofing services that combine quality materials, skilled workmanship, and outstanding customer care.",
     "story": [
-      "Prime Roofing Co was founded in 2008 by master carpenter John Miller, who saw a need for reliable, high-quality carpentry in the Dallas area. Starting with a small crew and a focus on roofing and framing, the company quickly earned a reputation for precision and professionalism. Over the years, we expanded our services to include custom decks, cabinetry, and exterior trim, always maintaining the same dedication to excellence.",
-      "Today, Prime Roofing Co is a trusted name in Dallas construction. Our team of skilled carpenters brings decades of combined experience to every project. We take pride in our work, using only the best materials and techniques to ensure lasting results. Whether it's a small repair or a major renovation, we treat every home like our own."
+      "Prime Roofing Co was founded in 1990 by master carpenter John Prime, who believed that every home deserves attention to detail. Starting with a small crew and a commitment to excellence, John built a reputation for reliable, high-quality work. Over the decades, we've grown into a full-service carpentry and roofing company serving the Dallas area.",
+      "Today, our team continues John's legacy by treating every project as a reflection of our values: integrity, craftsmanship, and respect for your home. Whether we're building a custom deck or repairing a roof, we approach each job with the same dedication that has earned us the trust of hundreds of homeowners."
     ],
     "highlight": {
-      "stat": "500+",
-      "label": "Projects Completed"
+      "stat": "30+",
+      "label": "Years of Service"
     },
     "coreValues": [
       {
-        "title": "Craftsmanship",
-        "description": "We take pride in meticulous work, ensuring every cut, joint, and finish meets our high standards."
-      },
-      {
-        "title": "Reliability",
-        "description": "We show up on time, communicate clearly, and deliver on our promises."
-      },
-      {
-        "title": "Integrity",
-        "description": "Honest pricing, transparent processes, and ethical practices guide everything we do."
+        "title": "Quality Craftsmanship",
+        "description": "We take pride in our work, using only the best materials and techniques."
       },
       {
         "title": "Customer Focus",
-        "description": "Your vision is our blueprint. We listen, adapt, and strive to exceed your expectations."
+        "description": "Your satisfaction is our top priority. We listen, communicate, and deliver."
+      },
+      {
+        "title": "Integrity",
+        "description": "Honest pricing, transparent communication, and reliable service."
+      },
+      {
+        "title": "Safety",
+        "description": "We maintain a safe work environment for our team and your family."
       }
     ]
   },
   "contact": {
-    "headline": "Get Your Free Estimate",
-    "subheadline": "Ready to bring your project to life? Contact Prime Roofing Co today for a free, no-obligation consultation.",
+    "headline": "Get in Touch",
+    "subheadline": "Ready to discuss your project? Call us or fill out the form for a free estimate.",
     "primaryCta": "Call (214) 513-3891",
     "formCta": "Send Message",
     "serviceAreas": [
       "Dallas",
       "Highland Park",
+      "University Park",
       "Lakewood",
-      "M Streets",
-      "East Dallas",
       "White Rock Lake",
+      "M Streets",
       "Preston Hollow",
       "Park Cities"
     ]
   },
   "social_proof": {
-    "rating": null,
+    "rating": "",
     "reviews": null
   },
   "meta": {
